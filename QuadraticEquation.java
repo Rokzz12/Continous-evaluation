@@ -17,7 +17,7 @@ if (d> 0.0)
   System.out.println("Roots are real and distinct");
 double r1 = (-b + Math.pow(d, 0.5)) / (2.0 * a);  
 double r2 = (-b - Math.pow(d, 0.5)) / (2.0 * a);  
-System.out.println("The roots are " + r1 + " and " + r2)  
+System.out.println("The roots are " + r1 + " and " + r2);  
 }   
 else if (d == 0.0)   
 {
